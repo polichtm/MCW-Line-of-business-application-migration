@@ -85,7 +85,7 @@
         }
     },
     "variables": {
-        "baseUri": "https://openhackpublic.blob.core.windows.net/lob-migration/sept-2021",
+        "baseUri": "https://cloudworkshop.blob.core.windows.net/line-of-business-application-migration/jan-2022",
         "HostRG": "[concat(parameters('resourceGroupBaseName'), 'HostRG')]",
         "hostUri": "[concat(variables('baseUri'),'/SmartHotelHost.json')]",
         "LZRG": "[concat(parameters('resourceGroupBaseName'), 'RG')]",
